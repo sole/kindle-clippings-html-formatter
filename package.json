@@ -12,5 +12,16 @@
     "html"
   ],
   "author": "sole",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sole/kindle-clippings-html-formatter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sole/kindle-clippings-html-formatter/issues"
+  },
+  "homepage": "https://github.com/sole/kindle-clippings-html-formatter#readme"
 }
