@@ -1,0 +1,16 @@
+{
+  "name": "@sole/kindle-clippings-html-formatter",
+  "version": "1.0.0",
+  "description": "Formats Kindle clippings using HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kindle",
+    "formatters",
+    "html"
+  ],
+  "author": "sole",
+  "license": "Apache-2.0"
+}
